@@ -1,0 +1,12 @@
+{
+  "id": "in_app_notifications",
+  "name": "In-App Notifications",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Елегантні спливаючі внутрішні сповіщення під час перебування в додатку із швидкою відповіддю та плавними анімаціями.",
+  "category": "UI / UX",
+  "icon": "msg_notifications",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/in_app_notifications/plugin.py"
+}

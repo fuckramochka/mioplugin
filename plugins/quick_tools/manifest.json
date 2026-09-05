@@ -1,0 +1,12 @@
+{
+  "id": "quick_tools",
+  "name": "Quick Tools",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Корисні інструменти у контекстних меню повідомлень: копіювання ID користувача/каналу, копіювання чистого тексту без форматування, швидкий переклад.",
+  "category": "Utility",
+  "icon": "msg_tools",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/quick_tools/plugin.py"
+}

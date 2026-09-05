@@ -1,0 +1,12 @@
+{
+  "id": "message_styler",
+  "name": "Message Styler",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Форматування та стилізація вихідних повідомлень (естетичні шрифти, декоративні символи, автоматичне застосування Markdown).",
+  "category": "Formatting",
+  "icon": "msg_font",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/message_styler/plugin.py"
+}

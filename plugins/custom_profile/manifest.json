@@ -1,0 +1,12 @@
+{
+  "id": "custom_profile",
+  "name": "Custom Profile",
+  "version": "1.8.1",
+  "author": "@RoflPlugins & @fuckramochka",
+  "description": "Розширене оформлення та кастомізація профілю Telegram: кольорові градієнти, кастомні банери, стилі бульбашок повідомлень.",
+  "category": "Customization",
+  "icon": "msg_customize",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/custom_profile/plugin.py"
+}

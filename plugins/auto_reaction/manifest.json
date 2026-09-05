@@ -1,0 +1,12 @@
+{
+  "id": "auto_reaction",
+  "name": "Auto Reaction",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Автоматично встановлює швидкі емодзі-реакції на вхідні повідомлення за заданими ключовими словами або фільтрами.",
+  "category": "Automation",
+  "icon": "msg_reactions",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/auto_reaction/plugin.py"
+}

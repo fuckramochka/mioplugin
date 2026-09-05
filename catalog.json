@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "repository": "https://github.com/fuckramochka/mioplugin",
+  "updated_at": "2026-09-05T08:50:00Z",
+  "plugins": [
+    {
+      "id": "auto_reaction",
+      "name": "Auto Reaction",
+      "version": "1.0.0",
+      "author": "@fuckramochka",
+      "description": "Автоматично встановлює швидкі емодзі-реакції на вхідні повідомлення за заданими ключовими словами або фільтрами.",
+      "category": "Automation",
+      "icon": "msg_reactions",
+      "entry_point": "plugin.py",
+      "min_app_version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/auto_reaction/plugin.py"
+    },
+    {
+      "id": "custom_profile",
+      "name": "Custom Profile",
+      "version": "1.8.1",
+      "author": "@RoflPlugins & @fuckramochka",
+      "description": "Розширене оформлення та кастомізація профілю Telegram: кольорові градієнти, кастомні банери, стилі бульбашок повідомлень.",
+      "category": "Customization",
+      "icon": "msg_customize",
+      "entry_point": "plugin.py",
+      "min_app_version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/custom_profile/plugin.py"
+    },
+    {
+      "id": "in_app_notifications",
+      "name": "In-App Notifications",
+      "version": "1.0.0",
+      "author": "@fuckramochka",
+      "description": "Елегантні спливаючі внутрішні сповіщення під час перебування в додатку із швидкою відповіддю та плавними анімаціями.",
+      "category": "UI / UX",
+      "icon": "msg_notifications",
+      "entry_point": "plugin.py",
+      "min_app_version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/in_app_notifications/plugin.py"
+    },
+    {
+      "id": "message_styler",
+      "name": "Message Styler",
+      "version": "1.0.0",
+      "author": "@fuckramochka",
+      "description": "Форматування та стилізація вихідних повідомлень (естетичні шрифти, декоративні символи, автоматичне застосування Markdown).",
+      "category": "Formatting",
+      "icon": "msg_font",
+      "entry_point": "plugin.py",
+      "min_app_version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/message_styler/plugin.py"
+    },
+    {
+      "id": "quick_tools",
+      "name": "Quick Tools",
+      "version": "1.0.0",
+      "author": "@fuckramochka",
+      "description": "Корисні інструменти у контекстних меню повідомлень: копіювання ID користувача/каналу, копіювання чистого тексту без форматування, швидкий переклад.",
+      "category": "Utility",
+      "icon": "msg_tools",
+      "entry_point": "plugin.py",
+      "min_app_version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/quick_tools/plugin.py"
+    }
+  ]
+}
