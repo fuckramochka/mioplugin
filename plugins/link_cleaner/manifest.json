@@ -1,0 +1,12 @@
+{
+  "id": "link_cleaner",
+  "name": "Link Cleaner",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Strips tracking junk (utm_*, fbclid, gclid, si, igshid...) from links in outgoing messages. Privacy by default.",
+  "category": "Privacy",
+  "icon": "msg_link",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/link_cleaner/plugin.py"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "antispam_guard",
+  "name": "Antispam Guard",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Watches incoming traffic for floods: repeated identical texts, link blasts and invite-link spam. Warns you with a toast, never deletes anything.",
+  "category": "Privacy",
+  "icon": "msg_shield",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/antispam_guard/plugin.py"
+}

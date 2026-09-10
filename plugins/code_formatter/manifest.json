@@ -1,0 +1,12 @@
+{
+  "id": "code_formatter",
+  "name": "Code Formatter",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": ".code <lang> wraps text in fenced blocks, .inline makes `monospace`, .spoiler hides text behind ||spoilers||.",
+  "category": "Formatting",
+  "icon": "msg_code",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/code_formatter/plugin.py"
+}

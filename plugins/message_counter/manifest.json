@@ -1,0 +1,12 @@
+{
+  "id": "message_counter",
+  "name": "Message Counter",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Session stats: counts incoming/outgoing messages. .stats in any chat prints yourTallies. Main-menu item shows them too.",
+  "category": "Utility",
+  "icon": "msg_stats",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/message_counter/plugin.py"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "text_transformer",
+  "name": "Text Transformer",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Dot-commands for outgoing text: .upper .lower .reverse .mock .uwu. Transforms the message before it is sent.",
+  "category": "Formatting",
+  "icon": "msg_font",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/text_transformer/plugin.py"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dice_roller",
+  "name": "Dice Roller",
+  "version": "1.0.0",
+  "author": "@fuckramochka",
+  "description": "Tabletop dice in chat: .roll 2d6, .roll d20, .flip. Results are expanded inline before sending.",
+  "category": "Utility",
+  "icon": "msg_games",
+  "entry_point": "plugin.py",
+  "min_app_version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/dice_roller/plugin.py"
+}
