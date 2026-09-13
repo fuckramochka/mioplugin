@@ -25,7 +25,8 @@
       "icon": "msg_customize",
       "entry_point": "plugin.py",
       "min_app_version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/plugins/custom_profile/plugin.py"
+      "bundle_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/Custom%20Profile.plugin",
+      "download_url": "https://raw.githubusercontent.com/fuckramochka/mioplugin/main/Custom%20Profile.plugin"
     },
     {
       "id": "in_app_notifications",
